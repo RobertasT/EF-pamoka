@@ -64,3 +64,45 @@ C:\Users\Robertas\Desktop\EF_PAMOKA (2)\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\EF_
 C:\Users\Robertas\Desktop\EF_PAMOKA (2)\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\ref\EF_PAMOKA.dll
 C:\Users\Robertas\Desktop\EF_PAMOKA (2)\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\EF_PAMOKA.pdb
 C:\Users\Robertas\Desktop\EF_PAMOKA (2)\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\EF_PAMOKA.genruntimeconfig.cache
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\appsettings.json
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\EF_PAMOKA.exe
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\EF_PAMOKA.deps.json
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\EF_PAMOKA.runtimeconfig.json
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\EF_PAMOKA.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\ref\EF_PAMOKA.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\EF_PAMOKA.pdb
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\EF_PAMOKA.csproj.AssemblyReference.cache
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\EF_PAMOKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\EF_PAMOKA.AssemblyInfoInputs.cache
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\EF_PAMOKA.AssemblyInfo.cs
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\EF_PAMOKA.csproj.CoreCompileInputs.cache
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\EF_PAMOKA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\EF_PAMOKA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\scopedcss\bundle\EF_PAMOKA.styles.css
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\EF_PAMOKA.csproj.CopyComplete
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\EF_PAMOKA.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\ref\EF_PAMOKA.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\EF_PAMOKA.pdb
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\obj\Debug\net6.0\EF_PAMOKA.genruntimeconfig.cache
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Robertas\Documents\GitHub\EF-pamoka\EF_PAMOKA\EF_PAMOKA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

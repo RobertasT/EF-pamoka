@@ -3,6 +3,7 @@ using System;
 using EF_PAMOKA.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -11,9 +12,10 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace EF_PAMOKA.Migrations
 {
     [DbContext(typeof(PavyzdinisDbContext))]
-    partial class PavyzdinisDbContextModelSnapshot : ModelSnapshot
+    [Migration("20220117192146_taisymas")]
+    partial class taisymas
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -105,31 +107,6 @@ namespace EF_PAMOKA.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Savininkai");
-                });
-
-            modelBuilder.Entity("EF_PAMOKA.Models.Vartotojas", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Pastas")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("Slaptazodis")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.Property<string>("Vardas")
-                        .IsRequired()
-                        .HasColumnType("text");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Vartotojai");
                 });
 #pragma warning restore 612, 618
         }

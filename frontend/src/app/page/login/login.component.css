@@ -1,5 +1,15 @@
 .forma{
-display: inline;
 display: flex;
-
+flex-direction: column;
+justify-content: center;
+margin-top: 50px;
+font-size: 25px;
+padding: 10px;
 }
+.router{
+display: flex;
+justify-content: center;
+margin-top: 50px;
+font-size: 30px;
+}
+

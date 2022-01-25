@@ -1,0 +1,14 @@
+.forma{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 50px;
+  font-size: 25px;
+  padding: 10px;
+  }
+  .router{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  font-size: 30px;
+  }

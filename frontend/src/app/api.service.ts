@@ -46,7 +46,7 @@ export class ApiService {
       console.log(tokenas)
       this.loggedIn = true;
 
-      this.token = tokenas;
+      this.token = tokenas.token;
       localStorage.setItem('token', this.token)
 
       this.router.navigate(['main'])
@@ -75,7 +75,7 @@ export class ApiService {
       console.log(tokenas)
       this.loggedIn = true;
 
-      this.token = tokenas;
+      this.token = tokenas.token;
       localStorage.setItem('token', this.token)
 
       this.router.navigate(['main'])

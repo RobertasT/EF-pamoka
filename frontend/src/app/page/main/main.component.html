@@ -1,2 +1,8 @@
-<p>main works!</p>
-<button (click)="atsijungti()">Atsijungti</button>
+
+<div class="main">
+  <p style="font-size: 35px;">Suprantu kad nesiseka, nepasiduok Robertai!</p>
+  <button (click)="atsijungti()" style="width: 400px;">Atsijungti</button>
+  <div *ngFor="let automobilis of automobiliai">
+    <p>{{automobilis.marke + " " + automobilis.modelis }}</p>
+  </div>
+</div>

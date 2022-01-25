@@ -1,12 +1,12 @@
 <form [formGroup]="forma" class="forma">
 
-    <label for="vartotojo-vardas">Vartotojo vardas : </label>
-    <input id="vartotojo-vardas" type="text" formControlName="vardas">
+    <label for="vartotojo-vardas" style="margin-top: 10px;">Vartotojo vardas : </label>
+    <input id="vartotojo-vardas" type="text" formControlName="vardas" style="margin-top: 10px;">
 
-    <label for="slaptazodis">Slaptazodis : </label>
-    <input id="slaptazodis" type="password" formControlName="slaptazodis">
+    <label for="slaptazodis" style="margin-top: 20px;">Slaptazodis : </label>
+    <input id="slaptazodis" type="password" formControlName="slaptazodis" style="margin-top: 10px;">
 
-    <button (click)="prisijungti()" type="submit" [disabled]="!forma.valid">Pateikti</button>
+    <button (click)="prisijungti()" type="submit" [disabled]="!forma.valid" style="margin-top: 30px;">Pateikti</button>
 
   </form>
-  <a routerLink="/register">Neturite paskyros? Registruotis</a>
+  <a routerLink="/register" class="router">Neturite paskyros? Registruotis</a>
